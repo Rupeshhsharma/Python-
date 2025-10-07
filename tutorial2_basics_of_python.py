@@ -26,11 +26,11 @@ print(a)
 
 tenth = 10
 b = 40
-c = "krish"
+c = "Rupesh"
 print(type(c))
 
 a1 = 10
-first_name = "Krish"
+first_name = "Rupesh"
 print(first_name)
 
 # --------------------------------------------
@@ -71,10 +71,10 @@ print(a1 | b1)
 # --------------------------------------------
 # Strings
 # --------------------------------------------
-name1 = "Krish"
+name1 = "Rupesh"
 print(name1)
 print(type(name1))
-print(name1 + "Naik")
+print(name1 + "Rupesh")
 print(name1 + str(1))
 
 # --------------------------------------------
@@ -88,12 +88,12 @@ print(j.real, j.imag)
 # Dynamic Typing
 # --------------------------------------------
 a = 10
-a = "Krish"
+a = "Rupesh"
 
 # --------------------------------------------
 # Strong Typing
 # --------------------------------------------
-a = "KRish"
+a = "Rupesh"
 print(a + str(1))
 
 # --------------------------------------------
@@ -102,8 +102,8 @@ print(a + str(1))
 a = 100
 print("The values is - ", a)
 
-first_name = "Krish"
-last_name = "Naik"
+first_name = "Rupesh"
+last_name = "Sharma"
 print("The first name is {a} and last name is {b}".format(b=last_name, a=first_name))
 
 # --------------------------------------------
